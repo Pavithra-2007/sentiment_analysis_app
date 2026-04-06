@@ -192,7 +192,7 @@ if uploaded_file is not None:
 
 else:
     st.info("👆 Please upload a PDF file containing product reviews to begin analysis.")
-
+    
     st.markdown("""
     ### How to use:
     1. Upload a PDF file containing product reviews.
